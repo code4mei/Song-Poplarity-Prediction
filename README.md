@@ -1,1 +1,2 @@
 # Song-Poplarity-Prediction
+# Song popularity prediction is a field within music analytics and data science that aims to forecast the popularity of a song before or after its release. It involves analyzing various factors that contribute to a song's success, such as musical features, lyrical content, artist popularity, marketing strategies, and external factors like cultural trends and current events.
